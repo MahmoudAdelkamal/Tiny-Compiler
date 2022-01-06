@@ -12,5 +12,7 @@ Different types of tokens may have their own semantic attributes (or values) whi
 
 (2) Parser phase : Also known as **Synatx analysis phase**, which takes the token produced by lexical analysis as input and generates a parse tree (or syntax tree). In this phase, token arrangements are checked against the source code grammar, i.e. the parser checks if the expression made by the tokens is syntactically correct.  
 
+
+Working Screenshots : 
 ![Screenshot](https://github.com/MahmoudAdelkamal/Tiny-Compiler/blob/main/Tiny-Compiler/TINY_Compiler/TINY_Compiler/Screenshots/whole%20program.jpg)
 

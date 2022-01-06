@@ -22,23 +22,6 @@ namespace TINY_Compiler
             Tiny_Parser.StartParsing(TokenStream);
             treeroot = Tiny_Parser.root;
             //Sematic Analysis
-        }
-
-
-        static void SplitLexemes(string SourceCode)
-        {
-            string[] Lexemes_arr=SourceCode.Split(' ');
-            for(int i=0; i< Lexemes_arr.Length; i++)
-            {
-                if(Lexemes_arr[i].Contains("\r\n"))
-                {
-                    Lexemes_arr[i] = Lexemes_arr[i].Replace("\r\n", string.Empty);
-                }
-                Lexemes.Add(Lexemes_arr[i]);
-            }
-
-        }
-
-        
+        }        
     }
 }

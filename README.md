@@ -16,6 +16,6 @@ Different types of tokens may have their own semantic attributes (or values) whi
 Working Screenshots : 
 
 ![Screenshot](https://github.com/MahmoudAdelkamal/Tiny-Compiler/blob/main/Tiny-Compiler/TINY_Compiler/TINY_Compiler/Screenshots/Lexeme_Token%20table.jpg)
-![Screenshot] (https://github.com/MahmoudAdelkamal/Tiny-Compiler/blob/main/Tiny-Compiler/TINY_Compiler/TINY_Compiler/Screenshots/ParseTree.jpg)
+![Screenshot](https://github.com/MahmoudAdelkamal/Tiny-Compiler/blob/main/Tiny-Compiler/TINY_Compiler/TINY_Compiler/Screenshots/ParseTree.jpg)
 ![Screenshot](https://github.com/MahmoudAdelkamal/Tiny-Compiler/blob/main/Tiny-Compiler/TINY_Compiler/TINY_Compiler/Screenshots/whole%20program.jpg)
 

@@ -12,7 +12,7 @@
 
     (2) Parser phase : Also known as **Synatx analysis phase**, which takes the token produced by lexical analysis as input and generates a parse tree (or syntax tree). In this           phase, token arrangements are checked against the source code grammar, i.e. the parser checks if the expression made by the tokens is syntactically correct.  
 
-- Tools and conepts : C#, windows forms and compiler design concepts.
+- Tools and concepts : C#, windows forms and compiler design concepts.
 
 
 Working Screenshots : 

@@ -21,7 +21,6 @@ namespace TINY_Compiler
             //Parser
             Tiny_Parser.StartParsing(TokenStream);
             treeroot = Tiny_Parser.root;
-            //Sematic Analysis
         }        
     }
 }
